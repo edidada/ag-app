@@ -34,5 +34,19 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Angualr 官网
 
+Angualr 官网:
+[angular.io](https://angular.io/)
+
+```shell
+
+ng generate component my-compont
+CREATE src/app/my-compont/my-compont.component.css (0 bytes)
+CREATE src/app/my-compont/my-compont.component.html (29 bytes)
+CREATE src/app/my-compont/my-compont.component.spec.ts (650 bytes)
+CREATE src/app/my-compont/my-compont.component.ts (284 bytes)
+UPDATE src/app/app.module.ts (410 bytes)
+
+```
+
 
 
