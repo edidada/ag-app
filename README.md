@@ -32,10 +32,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 20190220
 
-## Angualr 官网
+## Angular 官网
 
-Angualr 官网:
+Angular 官网:
 [angular.io](https://angular.io/)
+
 
 ```shell
 
@@ -51,6 +52,7 @@ UPDATE src/app/app.module.ts (410 bytes)
 在my-compont Component类文件
 
 [使用Angular CLI，生成一个名为的新组件](https://angular.io/tutorial/toh-pt1)
+
 
 ## note
 
