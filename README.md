@@ -56,4 +56,13 @@ UPDATE src/app/app.module.ts (410 bytes)
 
 ## note
 
-Component 不是其他
+Component 不是其他拼写
+
+```shell
+
+ng serve停止
+ng serve之后怎么停止继续输入其他指令
+
+ctrl+c 终止当前才可以
+
+```
