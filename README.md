@@ -53,6 +53,9 @@ UPDATE src/app/app.module.ts (410 bytes)
 
 [使用Angular CLI，生成一个名为的新组件](https://angular.io/tutorial/toh-pt1)
 
+MyCompontComponent
+OnInit
+
 
 ## note
 
@@ -61,8 +64,16 @@ Component 不是其他拼写
 ```shell
 
 ng serve停止
+
 ng serve之后怎么停止继续输入其他指令
 
 ctrl+c 终止当前才可以
 
 ```
+
+
+- `XX.component.ts`
+- `XX.component.spec.ts`
+- `XX.component.html`
+- `XX.component.css`
+
