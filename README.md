@@ -48,5 +48,10 @@ UPDATE src/app/app.module.ts (410 bytes)
 
 ```
 
+在my-compont Component类文件
 
+[使用Angular CLI，生成一个名为的新组件](https://angular.io/tutorial/toh-pt1)
 
+## note
+
+Component 不是其他
